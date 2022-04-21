@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqLab_", "LinqLab_.csproj", "{1FD6C8D7-DCB1-42B5-A18A-581C921E2A7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FD6C8D7-DCB1-42B5-A18A-581C921E2A7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD6C8D7-DCB1-42B5-A18A-581C921E2A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD6C8D7-DCB1-42B5-A18A-581C921E2A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD6C8D7-DCB1-42B5-A18A-581C921E2A7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E00F488-1BE2-4332-9B35-476A591D43CB}
+	EndGlobalSection
+EndGlobal
